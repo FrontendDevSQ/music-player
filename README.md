@@ -2,7 +2,7 @@
 
 > A browser-based music player with full playback controls, track navigation, and volume management — built in pure vanilla JavaScript.
 
-🔗 **[Live Demo](https://your-demo-link.netlify.app)** 
+🔗 **[Live Demo](https://music-player-two-navy.vercel.app/)** 
 
 <p align="center">
  <img width="1917" height="907" alt="Music player Preview" src="https://github.com/user-attachments/assets/ade260dd-280c-466d-9c84-bc0cb0d7ce0b" />
